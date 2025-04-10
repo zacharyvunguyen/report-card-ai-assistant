@@ -1,0 +1,48 @@
+# Python 3.13.2 Environment
+# Core Framework
+streamlit==1.44.0
+streamlit-option-menu==0.4.0
+nest-asyncio==1.5.8
+
+# LlamaIndex and Components
+llama-index==0.12.25
+llama-index-core==0.12.25
+llama-index-embeddings-openai==0.3.1
+llama-index-llms-openai==0.3.27
+llama-index-readers-file==0.4.7
+llama-index-readers-llama-parse==0.4.0
+llama-cloud-services==0.6.7
+llama-parse==0.6.4.post1
+llama-index-storage-chat-store-redis==0.4.0
+llama-index-tools-tavily-research==0.3.0
+llama-index-agent-openai==0.4.6
+llama-index-question-gen-openai==0.3.0
+llama-index-indices-managed-llama-cloud==0.6.9
+
+# PDF Processing
+pypdf==5.4.0
+reportlab==4.3.1
+
+# Data Processing
+numpy==2.2.4
+pandas==2.2.3
+
+# Storage and Cloud
+redis==5.2.1
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.10.6
+tiktoken==0.9.0
+requests==2.31.0
+typing-extensions==4.9.0
+aiohttp==3.11.14
+
+# API Clients
+tavily-python==0.5.1
+openai==1.68.2
+
+# Development and Testing
+pytest==8.0.2
+black==24.2.0
+isort==5.13.2 
