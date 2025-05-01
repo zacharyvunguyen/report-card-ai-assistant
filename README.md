@@ -8,7 +8,7 @@ A powerful Streamlit application that leverages artificial intelligence to analy
 
 The Advanced Report Card Analysis System transforms standard PDF report cards into detailed educational insights through a sequential multi-agent workflow. The application parses report card data, identifies strengths and weaknesses, recommends targeted educational resources, and generates personalized study plans—all presented in an intuitive web interface with downloadable PDF reports.
 
-![Workflow Diagram](diagrams/updated-diagram.png)
+![Workflow Diagram](diagrams/final.png)
 
 ## ✨ Key Features
 
